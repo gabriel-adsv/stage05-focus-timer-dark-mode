@@ -1,4 +1,4 @@
-<h1 align="center"> Stage 05 - FocusTimer 2.0</h1>
+<h1 align="center"> Stage 05 - FocusTimer - Dark Mode</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,13 +12,16 @@
 </p>
 
 <p align="center">
-<strong>Projeto desenvolvido como o último desafio do nível 5 das aulas da trilha Explorer da Rocketseat.</strong><br>
+<strong>Projeto desenvolvido como o último desafio do nível 5 das aulas da trilha Explorer da Rocketseat, desta vez com o Dark Mode implementado.</strong><br>
 Neste desafio, foram aplicados os conhecimentos de DOM no JavaScript e também da técnica de modularização. Além de aplicadar alguns conceitos de callback.
 </p>
 <br>
 
 <p align="center">
-  <img alt="página principal do temporizador com o fundo branco" src="./assets/focus-timer-2.0.jpg" width="100%">
+  <img alt="página principal do temporizador com o fundo branco" src="./assets/dark-mode.png" width="100%">
+
+  <img alt="página principal do temporizador com o fundo branco" src="./assets/light-mode.png" width="100%">
+
 </p>
 
 ## 🚀 Tecnologias
